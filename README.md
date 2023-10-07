@@ -5,6 +5,8 @@
 
 ### <div align="center">Hey 👋, I'm Rick!</div>  
   
+- ⚡ 16 years old
+  
 
 - 🔭 I’m currently working on myself  
   
@@ -13,11 +15,7 @@
   
 
 - ❓ Ask me about anything, if I don't know I'll find out  
-  
-
-- ⚡ Always seeking to improve
-  
-
+   
 <br/>  
 
 
@@ -45,11 +43,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jhrick&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jhrick&&style=flat-square" align="center" />
-</div>  
-
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jhrick&&style=flat-square" align="center" />
+</div> 
