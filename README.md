@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on myself  
   
 
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning computer
   
 
 - ❓ Ask me about anything, if I don't know I'll find out  
