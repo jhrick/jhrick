@@ -1,21 +1,5 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p> Hey there, I'm Rick! Currently, I'm just a student diving into programming and development concepts; I'm not making any money from it yet - not yet, at least. I aim to work on the server side in the not-too-distant future - backend - or in an area that heavily involves logic and patterns - yes, I enjoy math. Currently, I'm studying the C language, UNIX, Linux, and low-level concepts. My motivation for studying these things is that I see the need for a solid foundation. I try to develop some things for my operating system - which currently is Arch Linux. I still don't know how to develop things in a, let's say, precise manner. I have several ideas - many, really - for projects to customize my Arch Linux, but it turns out that all these ideas get jumbled up and nothing gets done. That's one of the things I've been working on lately.</p>
 
-### <div align="center">Hey 👋, I'm Rick!</div>  
-  
-- ⚡ 16 years old
-  
-
-- 🔭 I’m currently working on myself  
-  
-
-- 🌱 I’m currently learning computer
-  
-
-- ❓ Ask me about anything, if I don't know I'll find out  
-   
 <br/>  
 
 
