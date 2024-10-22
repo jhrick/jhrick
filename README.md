@@ -4,10 +4,10 @@ I'm a **Fullstack developer** focused in **backend** building REST APIs with cle
 
 Currently I work with:
 
-✓ Golang
-✓ Javascript | Typescript
-✓ Linux
-✓ Docker
-✓ Postgres
-✓ Github
-✓ Git
+✓ Golang  
+✓ Javascript | Typescript  
+✓ Linux  
+✓ Docker  
+✓ Postgres  
+✓ Github  
+✓ Git  
